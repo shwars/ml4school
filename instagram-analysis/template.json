@@ -1,0 +1,108 @@
+{
+  'categories': [
+    {
+      'name': 'people_',
+      'score': 0.86328125
+    }
+  ],
+  'adult': {
+    'isAdultContent': False,
+    'isRacyContent': False,
+    'adultScore': 0.0050703175365924835,
+    'racyScore': 0.009360453113913536
+  },
+  'color': {
+    'dominantColorForeground': 'Pink',
+    'dominantColorBackground': 'Pink',
+    'dominantColors': [
+      'Pink'
+    ],
+    'accentColor': '203C69',
+    'isBwImg': False,
+    'isBWImg': False
+  },
+  'tags': [
+    {
+      'name': 'flower',
+      'confidence': 0.9821239113807678
+    },
+    {
+      'name': 'woman',
+      'confidence': 0.976464033126831
+    },
+    {
+      'name': 'person',
+      'confidence': 0.9722641706466675
+    },
+    {
+      'name': 'pink',
+      'confidence': 0.6788726449012756,
+      'hint': 'flower'
+    },
+    {
+      'name': 'plant',
+      'confidence': 0.6602867841720581
+    },
+    {
+      'name': 'clothing',
+      'confidence': 0.6602867841720581
+    },
+    {
+      'name': 'wedding',
+      'confidence': 0.6328435916406574
+    },
+    {
+      'name': 'girl',
+      'confidence': 0.13868412633539762
+    }
+  ],
+  'description': {
+    'tags': [
+      'flower',
+      'woman',
+      'person',
+      'umbrella',
+      'pink',
+      'table',
+      'girl',
+      'sitting',
+      'holding',
+      'lady',
+      'wedding',
+      'dress',
+      'phone',
+      'white',
+      'standing',
+      'young',
+      'colorful',
+      'cake',
+      'vase',
+      'blue'
+    ],
+    'captions': [
+      {
+        'text': 'a woman in a pink flower',
+        'confidence': 0.9254821171223107
+      }
+    ]
+  },
+  'faces': [{'age': 53, 'gender': 'Male', 'faceRectangle': {'left': 239, 'top': 62, 'width': 152, 'height': 152}}],
+  'objects': [
+    {
+      'rectangle': {
+        'x': 213,
+        'y': 136,
+        'w': 362,
+        'h': 826
+      },
+      'object': 'person',
+      'confidence': 0.852
+    }
+  ],
+  'requestId': 'e950ea55-3561-4649-80a4-057958ae898f',
+  'metadata': {
+    'width': 1080,
+    'height': 1080,
+    'format': 'Jpeg'
+  }
+}

@@ -1,0 +1,1 @@
+python create-features.py --image-path z:\work\insta\pics --csv-path z:\work\insta\insta_kate_clapp.csv --cognitive-key 87b31c70157e4ccb95bd34e49f158d6f --cognitive-reg northeurope
