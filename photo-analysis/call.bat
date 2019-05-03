@@ -1,0 +1,1 @@
+python analyze-photo.py --image-path b:\photoexport\experiment --face-path faces.csv --picture-path pictures.csv --cognitive-key 87b31c70157e4ccb95bd34e49f158d6f --cognitive-reg northeurope
